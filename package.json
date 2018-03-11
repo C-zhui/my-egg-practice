@@ -1,0 +1,26 @@
+{
+  "name": "eggproj",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "dev":"egg-bin dev" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/c-zhui/my-egg-practice.git"
+  },
+  "author": "C-zhui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c-zhui/my-egg-practice/issues"
+  },
+  "homepage": "https://github.com/c-zhui/my-egg-practice#readme",
+  "dependencies": {
+    "egg": "^2.4.1"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.3.7"
+  }
+}
